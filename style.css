@@ -1,0 +1,19 @@
+.bg{
+    background: rgb(0,40,70);
+background: linear-gradient(0deg, rgba(0,40,70,1) 73%, rgba(250,110,80,1) 73%) ;
+height: 100vh;
+}
+
+.logo{
+    height: 130px;
+    width: 430px;
+}
+
+.bg-button{
+    background: #FA6E50;
+}
+
+.m{
+    margin-top: 325px;
+    padding: 50px;
+}
